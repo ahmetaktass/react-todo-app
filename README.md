@@ -1,6 +1,6 @@
 # React Redux Todo App.
 
-**live demo: [https://react-redux-todo-list-app.netlify.app//](https://react-redux-todo-list-app.netlify.app//)**
+**live demo: [https://react-redux-todo-list-app.netlify.app](https://react-redux-todo-list-app.netlify.app)**
 
 ## Getting Started
 
